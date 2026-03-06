@@ -37,12 +37,12 @@
 ## 🎥 演示预览 / Demos
 
 <p align="center">
-  <em>点击下方预览图，即可观看完整的高清实验录像。</em>
+  <em>点击播放按钮，直接在网页内观看高清实验录像。</em>
 </p>
 
 | 🚗 智能移动平台 (Tok4 Demo) | 🦾 RealMan 双臂协作 (RMC-DA Demo) |
 | :---: | :---: |
-| <a href="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/Tok4.mp4" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/tok4.png" width="400" alt="Tok4 Demo"></a> | <a href="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/RealMan.mp4" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/RealMan.png" width="400" alt="RealMan RMC-DA Demo"></a> |
+| <video src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/Tok4.mp4" poster="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/tok4.png" width="400" controls muted></video> | <video src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/RealMan.mp4" poster="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/RealMan.png" width="400" controls muted></video> |
 
 ---
 
