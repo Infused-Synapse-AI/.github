@@ -50,10 +50,17 @@
 | :---: | :---: |
 | <a href="https://www.bilibili.com/video/BV1eHNczREsS/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/tok4.png" width="400" alt="Tok4 Demo"></a> | <a href="https://www.bilibili.com/video/BV1rTNczNEiH/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/RealMan.png" width="400" alt="RealMan RMC-DA Demo"></a> |
 
-### 🔗 复杂场景与任务 / Complex Tasks
-| ⏱️ 长序任务 (一镜到底) | 🥩 烤肉 | 👕 叠衣服 |
-| :---: | :---: | :---: |
-| <a href="https://www.bilibili.com/video/BV11vc6zyEUv/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/fab3b6706a17115ab4306de553c415b3.png" width="280" alt="长序任务"></a> | <a href="https://www.bilibili.com/video/BV1mhc6z7EZT/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/8bafccbee1a89da152b15c3a5f13d866.png" width="280" alt="烤肉"></a> | <a href="https://www.bilibili.com/video/BV1bhc6z7EWd/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/8bafccbee1a89da152b15c3a5f13d866.png" width="280" alt="叠衣服"></a> |
+### ⏱️ 长序任务：一镜到底 / Long-Horizon Task
+<p align="center">
+  <a href="https://www.bilibili.com/video/BV11vc6zyEUv/" target="_blank">
+    <img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/fab3b6706a17115ab4306de553c415b3.png" width="800" alt="长序任务">
+  </a>
+</p>
+
+### 🔗 复杂场景应用 / Complex Scenarios
+| 🥩 庭院烤肉 (BBQ) | 👕 家务整理 (Laundry) |
+| :---: | :---: |
+| <a href="https://www.bilibili.com/video/BV1mhc6z7EZT/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/8bafccbee1a89da152b15c3a5f13d866.png" width="400" alt="烤肉"></a> | <a href="https://www.bilibili.com/video/BV1bhc6z7EWd/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/8bafccbee1a89da152b15c3a5f13d866.png" width="400" alt="叠衣服"></a> |
 
 ### 🎮 遥操作数据采集 / Teleoperation
 | 数据采集 Demo 1 | 数据采集 Demo 2 | 数据采集 Demo 3 |
