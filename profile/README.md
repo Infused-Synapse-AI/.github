@@ -38,9 +38,27 @@
   <em>点击下方预览图，即可在新窗口观看由 IS-Brain 驱动的高清实验录像。</em>
 </p>
 
-| 🚗 智能移动平台 (Tok4 Demo) | 🦾 RealMan 双臂协作 (RMC-DA Demo) |
+### 🎬 实验室宣传片 / Promo Video
+<p align="center">
+  <a href="https://www.bilibili.com/video/BV1bhc6z7EKq/" target="_blank">
+    <img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/%E5%AE%A3%E4%BC%A0%E7%89%87.png" width="800" alt="宣传片">
+  </a>
+</p>
+
+### 🧠 RoboMemory 核心模块
+| 🚗 RoboMemory (Tok4 Demo) | 🦾 RoboMemory (RMC-DA Demo) |
 | :---: | :---: |
 | <a href="https://www.bilibili.com/video/BV1eHNczREsS/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/tok4.png" width="400" alt="Tok4 Demo"></a> | <a href="https://www.bilibili.com/video/BV1rTNczNEiH/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/RealMan.png" width="400" alt="RealMan RMC-DA Demo"></a> |
+
+### 🔗 复杂场景与任务 / Complex Tasks
+| ⏱️ 长序任务 (一镜到底) | 🥩 烤肉 | 👕 叠衣服 |
+| :---: | :---: | :---: |
+| <a href="https://www.bilibili.com/video/BV11vc6zyEUv/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/fab3b6706a17115ab4306de553c415b3.png" width="280" alt="长序任务"></a> | <a href="https://www.bilibili.com/video/BV1mhc6z7EZT/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/8bafccbee1a89da152b15c3a5f13d866.png" width="280" alt="烤肉"></a> | <a href="https://www.bilibili.com/video/BV1bhc6z7EWd/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/8bafccbee1a89da152b15c3a5f13d866.png" width="280" alt="叠衣服"></a> |
+
+### 🎮 遥操作数据采集 / Teleoperation
+| 数据采集 Demo 1 | 数据采集 Demo 2 | 数据采集 Demo 3 |
+| :---: | :---: | :---: |
+| <a href="https://www.bilibili.com/video/BV1bhc6z7E5X/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/%E6%95%B0%E9%87%87demo1.png" width="280" alt="数据采集 Demo 1"></a> | <a href="https://www.bilibili.com/video/BV1uhc6zEEj1/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/%E6%95%B0%E9%87%87demo2.png" width="280" alt="数据采集 Demo 2"></a> | <a href="https://www.bilibili.com/video/BV1Mhc6zEEom/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/%E6%95%B0%E9%87%87demo3.png" width="280" alt="数据采集 Demo 3"></a> |
 
 ---
 
