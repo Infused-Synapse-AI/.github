@@ -28,7 +28,7 @@
 | 项目名称 | 状态 | 简介 |
 | :--- | :--- | :--- |
 | **[robomemory](https://github.com/Infused-Synapse-AI/RHEP-exhibit)** | 🟢 Public | 机器人多模态记忆管理系统，支持状态回溯与长程感知规划。 |
-| **[demo-collection](./demo-collection)** | 🟡 Public |包含智能移动底盘避障与双臂协作抓取的运行演示。 |
+| **[demo-collection](./demo-collection)** | 🟡 Public | 包含智能移动底盘避障与双臂协作抓取的运行演示。 |
 
 ---
 
@@ -39,11 +39,10 @@
 </p>
 
 ### 🎬 实验室宣传片 / Promo Video
-<p align="center">
-  <a href="https://www.bilibili.com/video/BV1bhc6z7EKq/" target="_blank">
-    <img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/%E5%AE%A3%E4%BC%A0%E7%89%87.png" width="800" alt="宣传片">
-  </a>
-</p>
+
+| 🎬 ISing AI 宣传片 (Promo Video) |
+| :---: |
+| <a href="https://www.bilibili.com/video/BV1bhc6z7EKq/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/%E5%AE%A3%E4%BC%A0%E7%89%87.png" width="640" alt="宣传片"></a> |
 
 ### 🧠 RoboMemory 
 | 🚗 RoboMemory (Tok4 Demo) | 🦾 RoboMemory (RMC-DA Demo) |
@@ -51,11 +50,10 @@
 | <a href="https://www.bilibili.com/video/BV1eHNczREsS/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/tok4.png" width="400" alt="Tok4 Demo"></a> | <a href="https://www.bilibili.com/video/BV1rTNczNEiH/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/RealMan.png" width="400" alt="RealMan RMC-DA Demo"></a> |
 
 ### ⏱️ 长序任务：一镜到底 / Long-Horizon Task
-<p align="center">
-  <a href="https://www.bilibili.com/video/BV11vc6zyEUv/" target="_blank">
-    <img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/fab3b6706a17115ab4306de553c415b3.png" width="800" alt="长序任务">
-  </a>
-</p>
+
+| ⏱️ 长序任务 (一镜到底) |
+| :---: |
+| <a href="https://www.bilibili.com/video/BV11vc6zyEUv/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/fab3b6706a17115ab4306de553c415b3.png" width="640" alt="长序任务"></a> |
 
 ### 🔗 复杂场景应用 / Complex Scenarios
 | 🥩 庭院烤肉 (BBQ) | 👕 家务整理 (Laundry) |
